@@ -1,0 +1,24 @@
+/*头部*/
+.Ln-Head{
+	width:100%;
+	height:2.125rem;
+	border-bottom:0.025rem solid #bababa;
+	background:#f9f9f9;
+}
+.Ln-Left{
+	width:6rem;
+	height:2.125rem;
+	float:left;
+	margin-left:0.275rem;
+	line-height:2.125rem;
+	color:#1b1b1b;
+	font-size:0.75rem;
+}
+.Ln-Right{
+	width:1.5rem;
+	height:2.125rem;
+	float:right;
+	margin-right:0.275rem;
+	line-height:2.125rem;
+	color:#1b1b1b;
+}
